@@ -7,6 +7,6 @@ The dataset contains a sample 10000 images mined from Instagram
 and clustered based on the hairstyle they showcase.
 
 The variable `cluster`  represents the hairstyle cluster that the image has been assigned to by 
-
+the visual recognition algorithm.
 
 
