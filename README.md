@@ -9,3 +9,4 @@ The variable `cluster`  represents the hairstyle cluster that the image has been
 the visual recognition algorithm.
 
 Each row contains the variable `url` which is the link to the image and  the number of ​ likes
+together with the `comments` per image.  The `user_id`  is the unique id of the Instagram account
