@@ -8,4 +8,4 @@ and clustered based on the hairstyle they showcase.
 The variable `cluster`  represents the hairstyle cluster that the image has been assigned to by 
 the visual recognition algorithm.
 
-
+Each row contains the variable `url` which is the link to the image and  the number of ​ likes
